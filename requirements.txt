@@ -1,0 +1,4 @@
+cloudscraper
+colorama
+requests
+configparser
